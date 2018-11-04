@@ -1,6 +1,6 @@
 # Bicycle
 
-###Setup
+### Setup ###
 
 1. Set domain root to public folder
 2. Set __GOOGLE_PLACES_KEY__ in .env file
